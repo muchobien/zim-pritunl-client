@@ -1,5 +1,12 @@
 # zim-pritunl-client
 
+> [!IMPORTANT]
+> Moved to [muchobien/zim-modules](https://github.com/muchobien/zim-modules/tree/main/pritunl-client), with its history. This repo is archived. In `~/.zimrc`, replace `zmodule muchobien/zim-pritunl-client` with:
+>
+> ```zsh
+> zmodule muchobien/zim-modules --root pritunl-client
+> ```
+
 [zim module](https://github.com/zimfw/zimfw) for [pritunl-client](https://client.pritunl.com),
 the Pritunl client's command line tool
 
